@@ -3,7 +3,7 @@
         <LangVersion>preview</LangVersion>
         <ImplicitUsings>enable</ImplicitUsings>
         <Nullable>enable</Nullable>
-        <Version>1.0.1</Version>
+        <Version>1.0.0</Version>
         <Company>Drastic Actions</Company>
         <Copyright>Copyright (C) Drastic Actions</Copyright>
         <IsPackable>false</IsPackable>
@@ -15,9 +15,9 @@
 
     <PropertyGroup>
     <Authors>$(Company)</Authors>
-      <PackageTags>SVProgressHUD loading uikit ios mac catalyst tvos</PackageTags>
-      <PackageProjectUrl>https://github.com/drasticactions/Drastic.SVProgressHUD</PackageProjectUrl>
-      <PackageReleaseNotes>https://github.com/drasticactions/Drastic.SVProgressHUD/blob/main/CHANGELOG.md</PackageReleaseNotes>
+      <PackageTags>MBProgressHUD loading uikit ios mac catalyst tvos</PackageTags>
+      <PackageProjectUrl>https://github.com/drasticactions/Drastic.MBProgressHUD</PackageProjectUrl>
+      <PackageReleaseNotes>https://github.com/drasticactions/Drastic.MBProgressHUD/blob/main/CHANGELOG.md</PackageReleaseNotes>
       <PackageReadmeFile>README.md</PackageReadmeFile>
       <PackageIcon>favicon.png</PackageIcon>
       <PackageLicenseExpression>MIT</PackageLicenseExpression>
